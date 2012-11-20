@@ -39,6 +39,10 @@ Knife Options for Encryption
 =====================================================
 .. include:: ../../includes_data_bag/includes_data_bag_encryption_knife_options.rst
 
+Create an encryption key
+=====================================================
+.. include:: ../../includes_data_bag/includes_data_bag_create_encryption_key.rst
+
 Create an encrypted data bag item
 =====================================================
 .. include:: ../../includes_data_bag/includes_data_bag_encryption_encrypt.rst
