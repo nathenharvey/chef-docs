@@ -40,10 +40,10 @@ About Data Bags
 
    * - Method
      - Description
-   * - :doc:`essentials_data_bags_store`
-     - Each data bag is placed within the ``data_bags`` directory within the |chef| repository.
    * - :doc:`essentials_data_bags_create`
      - A data bag can be created using |knife| or manually.
+   * - :doc:`essentials_data_bags_store`
+     - Each data bag is placed within the ``data_bags`` directory within the |chef| repository.
    * - :doc:`essentials_data_bags_encrypt`
      - Any data bag item can be encrypted.
 
